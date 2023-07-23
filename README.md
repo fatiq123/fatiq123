@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatiq Hussnain</h1>
 <h3 align="center">A passionate Native Android Developer from Pakistan</h3>
 
-<p align="center">
-  <img width="100%" height="500" src="https://media.licdn.com/dms/image/C5622AQETP_Eb7w2CCA/feedshare-shrink_800/0/1668539698209?e=1692835200&v=beta&t=BFoDLEk0NVX1tgS3KHhjSLOToh5QGC1rngkbv8WpmC8" alt="Cover Image">
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatiq123&label=Profile%20views&color=0e75b6&style=flat" alt="fatiq123" /> </p>
 
