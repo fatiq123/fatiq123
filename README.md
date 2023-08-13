@@ -30,8 +30,6 @@
   <!-- Add more icons for other languages and tools -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatiq123&show_icons=true&locale=en&layout=compact" alt="fatiq123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatiq123&show_icons=true&locale=en" alt="fatiq123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatiq123&" alt="fatiq123" /></p>
