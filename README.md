@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [The Big Screen](https://github.com/fatiq123/The-Big-Screen)
 
-- 🌱 I’m currently learning **Jetpack Compose and Flutter**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/fatiq123)
 
 - 👨‍💻 All of my projects are available at [https://github.com/fatiq123](https://github.com/fatiq123)
 
-- 💬 Ask me about **Kotlin Native and Flutter**
+- 💬 Ask me about **Kotlin Native**
 
 - 📫 How to reach me **fatiqhussnain1@gmail.com**
 
