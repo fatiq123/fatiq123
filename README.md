@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [The Big Screen](https://github.com/fatiq123/The-Big-Screen)
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Android Jetpack Compose**
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/fatiq123)
 
