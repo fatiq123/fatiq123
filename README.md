@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/fatiq_hussnain" target="blank"><img src="https://img.shields.io/twitter/follow/fatiq_hussnain?logo=twitter&style=for-the-badge" alt="fatiq_hussnain" /></a> </p>
 
-- 🔭 I’m currently working on AI Plant Disease Detection Project using Machine Learning
+- 🔭 I’m currently working on Plant Disease Detection Project using Machine Learning
 
 - 🌱 I’m currently learning **Android Jetpack Compose**
 
