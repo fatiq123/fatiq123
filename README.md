@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fatiq123](https://github.com/fatiq123)
 
-- 💬 Ask me about **Kotlin Native**
+- 💬 Ask me about **Kotlin Native and Programming in General**
 
 - 📫 How to reach me **fatiqhussnain1@gmail.com**
 
