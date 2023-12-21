@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Plant Disease Detection Project using Machine Learning
 
-- 🌱 I’m currently learning **Android Jetpack Compose and JAVA**
+- 🌱 I’m currently learning **Kotlin, JAVA, Ktor and Databases. Also Machine Learning**
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/fatiq123)
 
