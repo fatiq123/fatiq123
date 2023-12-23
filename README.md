@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on Plant Disease Detection Project using Machine Learning
 
-- 🌱 I’m currently learning **Kotlin, JAVA, Ktor and Databases. Also Machine Learning**
+- 🌱 I’m currently learning **Kotlin, JAVA, Ktor and Databases. Also Machine Learning.**
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/fatiq123)
 
 - 👨‍💻 All of my projects are available at [https://github.com/fatiq123](https://github.com/fatiq123)
 
-- 💬 Ask me about **Kotlin Native and Programming in General**
+- 💬 Ask me about **Kotlin Native and Programming in General.**
 
 - 📫 How to reach me **fatiqhussnain1@gmail.com**
 
