@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **fatiqhussnain1@gmail.com**
 
-- ⚡ Fun fact **I follow Clean Architecture and best Design Patterns and make my code Clean and readable.**
+- ⚡ Fun fact **I follow Clean Architecture and Best Design Patterns and make my code Clean and readable.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
