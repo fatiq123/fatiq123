@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/fatiq_hussnain" target="blank"><img src="https://img.shields.io/twitter/follow/fatiq_hussnain?logo=twitter&style=for-the-badge" alt="fatiq_hussnain" /></a> </p>
 
-- 🔭 I’m currently working on Machine Learning.
+- 🔭 I’m currently working on Cloud.
 
-- 🌱 I’m currently learning **Kotlin, JAVA, Ktor and Databases. Also Machine Learning and Python.**
+- 🌱 I’m currently learning **Kotlin, JAVA, Ktor and Databases.**
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/fatiq123)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **fatiqhussnain1@gmail.com**
 
-- ⚡ Fun fact **I follow Clean Architecture and Best Design Patterns and make my code Clean and readable.**
+- ⚡ Fun fact **No Fun Fact.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
